@@ -1,7 +1,7 @@
 # Predicting Diabetes Using Health Indicators & Lifestyle Factors
 
 An end-to-end machine learning workflow that forecasts diabetes risk from
-demographic, clinical, and lifestyle indicators — covering SQL-based
+demographic, clinical, and lifestyle indicators covering SQL-based
 extraction, preprocessing, feature engineering, modelling, evaluation,
 and a Power BI-ready output for patient risk profiling.
 
@@ -13,7 +13,7 @@ and a Power BI-ready output for patient risk profiling.
 - Compared **Logistic Regression, Random Forest, Decision Tree, and XGBoost**
   classifiers using ROC-AUC, precision, recall, and cross-validation.
 - Automated preprocessing, feature engineering, and cohort preparation in
-  **Python (Pandas)** and **SQL**, and produced a **Power BI**-ready export
+  **Python (Pandas)** and **SQL**, and produced a **Power BI** ready export
   for patient risk profiling and risk tiers.
 
 > **Note on the 0.84 ROC-AUC figure:** this repo ships with a synthetic
